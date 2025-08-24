@@ -10,13 +10,13 @@ Data preprocessing and training using supervised learning
 <br>
 Models implemented:
 <br>
-Decision Tree Classifier
+  Decision Tree Classifier
 <br>
-Random Forest Classifier
+  Random Forest Classifier
 <br>
-Logistic Regression
+  Logistic Regression
 <br>
-K-Neighbors Classifier
+  K-Neighbors Classifier
 <br>
 Performance evaluation using accuracy scores and precision.
 Web-based UI for user-friendly interaction.
