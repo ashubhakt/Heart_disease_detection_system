@@ -4,7 +4,8 @@ This project is a Machine Learning-based Heart Disease Detection System that pre
 A simple and interactive web-based UI was built using Streamlit in the Anaconda environment, allowing users to input health parameters and get real-time predictions.
 <br>
 <br>
-Features:-<br>
+Features:-
+<br>
 Data preprocessing and training using supervised learning
 <br>
 Models implemented:
@@ -21,7 +22,7 @@ Performance evaluation using accuracy scores and precision.
 Web-based UI for user-friendly interaction.
 <br>
 <br>
-Tech Stack
+Tech Stack:-
 <br>
 Python
 <br>
@@ -36,13 +37,13 @@ Streamlit (Web UI)
 Anaconda (Development Environment)
 <br>
 <br>
-Results
+Results:-
 <br>
-Decision Tree and Random Forest showed perfect accuracy (1.0) but may be prone to overfitting.
+1. Decision Tree and Random Forest showed perfect accuracy (1.0) but may be prone to overfitting.
 <br>
-Logistic Regression gave a balanced accuracy of ~86%.
+2. Logistic Regression gave a balanced accuracy of ~86%.
 <br>
-K-Neighbors Classifier performed decently with ~74%.
+3. K-Neighbors Classifier performed decently with ~74%.
 <br>
 <br>
 Author: Developed by Ashutosh Bhakt as part of MAchine Learning Project 
